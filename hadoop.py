@@ -5,11 +5,11 @@ import tweepy
 import pandas as pd
 
 # Definir credenciales
-consumer_key = 'qaGQnO87Q6EXyRoC6xetrbdQ7'
-consumer_secret = 'D4C1s4LAsK7GvhIOMNRG7uiFr11h0YSa9h4JfxoexBjIZfMRGr'
-baerer_token = r"AAAAAAAAAAAAAAAAAAAAAD2ihQEAAAAA8I9VKK4lMR5mZSOxaB%2FiOTRasSA%3DHueoXaAkrHXuMsdH0rIGzmyHPcBjkqrn5gcmkNjWIEbgCLj94P"
-access_token = '1573352412341051392-CGyzsHTdeFgFNs9FtlnU3R1tWIMMga'
-access_token_secret = 'gfe1ZALw1fcKiwV82AQbqmb43Mf4V72fhV8ZRK1DM9dsX'
+consumer_key = ''
+consumer_secret = ''
+baerer_token = "
+access_token = ''
+access_token_secret = ''
 
 # Autenticar
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
